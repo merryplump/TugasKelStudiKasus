@@ -1,0 +1,23 @@
+@media screen and (orientation: portrait) {
+	body {
+		background-color: #EFDEC1;
+	}
+}
+@media screen and (orientation: landscape) {
+	body {
+		background-color: #EFDEC1;
+	}
+	#kasus {
+		font-size: 1.8em;
+	}
+	p, li {
+		text-align: center;
+		font-size: 1.5em;
+	}
+}
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+	background-color: #A57150;
+	margin-top: 20px;
+}
